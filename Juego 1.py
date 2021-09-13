@@ -1,5 +1,7 @@
 """Paint, for drawing shapes.
 
+Hello World
+
 Exercises
 
 1. Add a color.
