@@ -1,3 +1,7 @@
+%Equipo 10: Mauricio Franco, Hector Guapo, Eduardo Maldonado
+
+
+
 """Paint, for drawing shapes.
 
 Exercises
