@@ -1,3 +1,9 @@
+# Equipo 10
+# Integrantes:
+# Mauricio Franco 
+# Hector Guapo
+# Eduardo Maldonado
+
 """Paint, for drawing shapes.
 
 Hello World
@@ -41,12 +47,14 @@ def square(start, end):
 
 def circles(start, end):
     "Draw circle from start to end."
+
     up()
     goto(start.x, start.y)
     down()
     begin_fill()
     circle(20)
     end_fill()
+
 
 
 def rectangle(start, end):
