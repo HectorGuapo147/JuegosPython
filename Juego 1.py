@@ -2,7 +2,7 @@
 # Integrantes:
 # Mauricio Franco 
 # Hector Guapo
-# Eduardo Maldonado
+# Eduardo Maldonado A00832361
 
 """Paint, for drawing shapes.
 
